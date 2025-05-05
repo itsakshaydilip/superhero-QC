@@ -6,7 +6,7 @@
 
 # Superhero-QC
 
-Superhero QC is a character and Scene finalisation tool that dives deeps into checks like Joint rotation Color and UV sets. It uses the scugbug cleaner for cleanup and prep.
+Superhero QC is a character and Scene finalisation tool that dives deeps into checks like Joint rotation Color and UV sets. It uses the snugbug cleaner for cleanup and prep.
 ## Usage
 
 Drag and drop the script into maya's script editor and run it (ctrl+Enter).
